@@ -3,13 +3,13 @@
   A demote script for GCP cloud sql
   requirement: gcloud cli command installed and authorized with your default region set ( check with gcloud config list )
 	```
-	[compute]
-	region = asia-east1
-	[core]
-	account = youremailhere
-	disable_prompts = true
-	disable_usage_reporting = False
-	project = project-name
+	[compute]</br>
+	region = asia-east1</br>
+	[core]</br>
+	account = youremailhere</br>
+	disable_prompts = true</br>
+	disable_usage_reporting = False</br>
+	project = project-name</br>
 	```
   Do the DemoteCreateVirtualMaster.sh first, than the Demote.sh script
 
