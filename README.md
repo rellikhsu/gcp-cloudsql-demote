@@ -5,7 +5,7 @@ This is a demote script for GCP CloudSQL
 ------------
 
 
-Requirement: gcloud cli command installed and authorized with your default region set, you can check with **gcloud config list **
+Requirement: gcloud cli command installed and authorized with your default region set, you can check with *gcloud config list *
 
 > [compute]<br />
 region = asia-east1<br />
