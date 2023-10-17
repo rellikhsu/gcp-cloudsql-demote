@@ -7,12 +7,12 @@ This is a demote script for GCP CloudSQL
 
 Requirement: gcloud cli command installed and authorized with your default region set, you can check with **gcloud config list **
 
-> [compute]
-region = asia-east1
-[core]
-account = youremailhere
-disable_prompts = true
-disable_usage_reporting = False
+> [compute]<br />
+region = asia-east1<br />
+[core]<br />
+account = youremailhere<br />
+disable_prompts = true<br />
+disable_usage_reporting = False<br />
 
 
 
