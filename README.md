@@ -5,5 +5,5 @@
   Do the DemoteCreateVirtualMaster.sh first, than the Demote.sh script
 
 #Important !
-Before Demote processing, be sure the external mysql to be your cloud sql slave and connection is established!
+Before Demote processing, be sure the external mysql to be your cloud sql slave (mysql replica) and connection is established!
 If not , the Cloud SQL demote will hang becuase of no mysql replica, it don't know how to change master to.
